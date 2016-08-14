@@ -1,2 +1,7 @@
-This is a simple progress bar made in BASH.
+Simple command-line progress bar
+=====================
+
+`progressbar` is a simple progress bar made in BASH.
+
+
 
